@@ -26,7 +26,7 @@ const ContactPage = () => {
     {
       icon: Phone,
       title: "Call Us",
-      details: "+91 8919685634 / +91 8688973054",
+      details: "+91 9652557187,
       description: "Mon-Sat 9AM-6PM",
       color: "from-green-500 to-emerald-500",
       bg: "bg-[url('https://images.unsplash.com/photo-1423666639041-f56000c27a9a?w=400&h=300&fit=crop')] bg-cover bg-center",
@@ -35,7 +35,7 @@ const ContactPage = () => {
     {
       icon: Mail,
       title: "Email Us",
-      details: "Contactslsit1@gmail.com",
+      details: "slsitskillup@gmail.com",
       description: "We reply within 24 hours",
       color: "from-blue-500 to-cyan-500",
       bg: "bg-[url('https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=400&h=300&fit=crop')] bg-cover bg-center",
