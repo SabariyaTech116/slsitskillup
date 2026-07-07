@@ -309,7 +309,7 @@ const CRTPage = () => {
               
               <motion.button
                 whileHover={{ scale: 1.05 }}
-                onClick={() => window.open('tel:+918919685634', '_self')}
+                onClick={() => window.open('tel:+919652557187', '_self')}
                 className="btn-secondary text-lg px-10 py-4"
               >
                 Schedule Counseling

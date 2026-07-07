@@ -44,7 +44,7 @@ const EnrollmentModal = ({ isOpen, onClose, course }) => {
           course: course?.title,
           price: course?.price,
           message: `New enrollment for ${course?.title}`,
-          to_email: 'yallaposibabu303@gmail.com'
+          to_email: 'slsitskillup@gmail.com'
         })
       })
 
@@ -241,7 +241,7 @@ const EnrollmentModal = ({ isOpen, onClose, course }) => {
               </form>
 
               <p className="text-blue-300 text-xs text-center mt-4">
-                Email will be sent directly to yallaposibabu303@gmail.com
+                Email will be sent directly to slsitskillup@gmail.com
               </p>
             </div>
           </motion.div>

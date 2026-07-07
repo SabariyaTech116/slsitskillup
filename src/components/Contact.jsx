@@ -34,13 +34,13 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Call Us",
-      details: "+91 9876543210",
+      details: "+91 9652557187",
       color: "from-green-500 to-emerald-500"
     },
     {
       icon: Mail,
       title: "Email Us",
-      details: "info@slsitskillup.in",
+      details: "slsitskillup@gmail.com",
       color: "from-blue-500 to-cyan-500"
     },
     {
