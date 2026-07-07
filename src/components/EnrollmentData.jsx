@@ -55,7 +55,7 @@ Time: ${new Date().toLocaleTimeString()}`
               <div className="text-center mb-6">
                 <CheckCircle className="h-12 w-12 text-green-400 mx-auto mb-3" />
                 <h2 className="text-2xl font-bold text-white mb-2">Enrollment Received!</h2>
-                <p className="text-green-200">Copy the details below and send to yallaposibabu303@gmail.com</p>
+                <p className="text-green-200">Copy the details below and send to slsitskillup@gmail.com</p>
               </div>
 
               <div className="bg-slate-800 rounded-lg p-4 mb-4 border border-white/10">

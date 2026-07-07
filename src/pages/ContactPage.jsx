@@ -26,11 +26,11 @@ const ContactPage = () => {
     {
       icon: Phone,
       title: "Call Us",
-      details: "+91 9652557187,
+      details: "+91 9652557187",
       description: "Mon-Sat 9AM-6PM",
       color: "from-green-500 to-emerald-500",
       bg: "bg-[url('https://images.unsplash.com/photo-1423666639041-f56000c27a9a?w=400&h=300&fit=crop')] bg-cover bg-center",
-      action: () => window.open('tel:+918919685634', '_self')
+      action: () => window.open('tel:+919652557187', '_self')
     },
     {
       icon: Mail,
@@ -39,7 +39,7 @@ const ContactPage = () => {
       description: "We reply within 24 hours",
       color: "from-blue-500 to-cyan-500",
       bg: "bg-[url('https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=400&h=300&fit=crop')] bg-cover bg-center",
-      action: () => window.open('mailto:Contactslsit1@gmail.com', '_blank')
+      action: () => window.open('mailto:slsitskillup@gmail.com', '_blank')
     },
     {
       icon: MapPin,
@@ -314,13 +314,13 @@ const ContactPage = () => {
                 </p>
                 <div className="space-y-3">
                   <button 
-                    onClick={() => window.open('tel:+918919685634', '_self')}
+                    onClick={() => window.open('tel:+919652557187', '_self')}
                     className="w-full bg-gradient-to-r from-purple-500 to-pink-600 text-white py-3 rounded-lg font-semibold hover:shadow-lg transition-all"
                   >
                     Book Campus Tour
                   </button>
-                  <button 
-                    onClick={() => window.open('https://wa.me/918919685634?text=Hi! I would like to schedule a campus visit at SLSIT Skillup.', '_blank')}
+                  <button
+                    onClick={() => window.open('https://wa.me/919652557187?text=Hi! I would like to schedule a campus visit at SLSIT Skillup.', '_blank')}
                     className="w-full bg-green-500 hover:bg-green-600 text-white py-3 rounded-lg font-semibold transition-all flex items-center justify-center space-x-2"
                   >
                     <MessageSquare className="h-4 w-4" />
@@ -393,9 +393,8 @@ const ContactPage = () => {
                     <h3 className="text-xl font-bold text-white">Contact</h3>
                   </div>
                   <div className="space-y-2">
-                    <p className="text-blue-100">+91 8919685634</p>
-                    <p className="text-blue-100">+91 8688973054</p>
-                    <p className="text-blue-100">Contactslsit1@gmail.com</p>
+                    <p className="text-blue-100">+91 9652557187</p>
+                    <p className="text-blue-100">slsitskillup@gmail.com</p>
                   </div>
                 </div>
 

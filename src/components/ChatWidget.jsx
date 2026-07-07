@@ -10,7 +10,7 @@ const ChatWidget = () => {
       id: 1,
       name: "Admissions Team",
       role: "Course Enrollment & Information",
-      phone: "+91 8919685634",
+      phone: "+91 9652557187",
       avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=60&h=60&fit=crop&crop=face",
       status: "online"
     },
@@ -18,7 +18,7 @@ const ChatWidget = () => {
       id: 2,
       name: "Placement Team", 
       role: "Career Guidance & CRT Program",
-      phone: "+91 8688973054",
+      phone: "+91 9652557187",
       avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=60&h=60&fit=crop&crop=face",
       status: "online"
     }

@@ -13,7 +13,7 @@ emailjs.init(EMAIL_CONFIG.publicKey)
 export const sendEnrollmentEmail = async (enrollmentData) => {
   try {
     const templateParams = {
-      to_email: 'yallaposibabu303@gmail.com',
+      to_email: 'slsitskillup@gmail.com',
       student_name: enrollmentData.name,
       student_email: enrollmentData.email,
       student_phone: enrollmentData.phone,

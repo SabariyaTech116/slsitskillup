@@ -21,7 +21,7 @@ app.post('/api/send-enrollment', async (req, res) => {
 
     const mailOptions = {
       from: 'your-email@gmail.com',
-      to: 'yallaposibabu303@gmail.com',
+      to: 'slsitskillup@gmail.com',
       subject: `New Course Enrollment - ${course}`,
       html: `
         <h2>New Course Enrollment Request</h2>

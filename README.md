@@ -129,8 +129,8 @@ This project is licensed under the MIT License.
 ## 📞 Support
 
 For support and questions, please contact:
-- Email: info@slsitskillup.in
-- Phone: +91 9876543210
+- Email: slsitskillup@gmail.com
+- Phone: +91 9652557187
 
 ---
 
